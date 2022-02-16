@@ -8,6 +8,9 @@ System.out.println("-------------------------------");
 while(schluessel > 26) {
    schluessel = schluessel - 26;
 }
+while(schluessel < 0) {
+   schluessel = schluessel + 26;
+}
 int i = 0;
 int j = 0;
 int grossbuchstabe = 0;
