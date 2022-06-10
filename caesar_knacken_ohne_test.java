@@ -1,4 +1,6 @@
-String geheimtext = "CDFDMGZQC";
+//Funktioniert nicht richtig, da die Überprüfung fehlt!
+
+String geheimtext = "UVTGPIIGJGKO";
 int i = 0;
 int laenge = geheimtext.length();
 int schluessel = 0;
