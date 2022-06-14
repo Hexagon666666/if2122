@@ -9,6 +9,7 @@ System.out.println("-------------------------------");
 int i = 0;
 int j = 0;
 int grossbuchstabe = 0;
+// Der Schlüssel wird bis auf 25 erhöht, danach würde sich alles nur nich wiederholen.
 while(schluessel < 26) {
    print("Für den Schlüssel ");
    print(schluessel - 26);
